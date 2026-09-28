@@ -1,0 +1,23 @@
+OrderID,OrderDate,Region,Salesperson,Customer,ProductID,ProductName,Category,Quantity,UnitPrice
+2001,2025-02-01,North,Alex Smith,Trail Hutt,PRD-001,TrekX Tent,Camping,3,120
+2002,2025-02-03,East, Maria Lopez,City Sports,PRD-005,TrailBlaze Backpack,Camping,4,95
+2003,2025-02-04,South,John King,Adventure Hub,PRD-004,,Footwear,5,80
+2004,02/05/2025,West,Sarah Chen,Mountain Edge,PRD-007,StormGuard Raincoat,Apparel,3,140
+,,,,,,,,,
+2005,2025-02-06,NORTH,Tom Rivera,Alpine Gear,PRD-003,SummitPro Jacket,Apparel,2,180
+2006,2025-02-07,East,Maria Lopez,LakeSide Sports ,PRD-008,RiverFlow Kayak,Water Sports,1,430
+2007,2025-02-10,South,Jonh King,Outdoor Wirld,PRD-002,ForestLight Lantern,Camping,8,35
+2008,2025-02-11,West,Alex Smith,Peak Outfitters,PRD-011,ArcticPro Sleeping Bag,Camping,2,150
+,,,,,,,,,
+2009,2025-02-12,North,Sarah Chen,,PRD-006,Glacier Thermal Gloves,,10,25
+2010,02/14/2025,East,Tom Rivera,City Sports,PRD-010,SunShield Hat,Accessories,15,22
+2011,2025-02-17,South,Maria Lopez,Adventure Hub,PRD-009,PeakTrail Poles,Accessories,6,35
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+2012,2025-02-18,West,John King,Mountain Edge,PRD-001,TrekX Tent,Camping,4,120
+2005,2025-02-20,North,Alex Smith,Ridge Gears,PRD-004,CloudRun Shoes,Footwear,7,80
+2013,2025-02-22,East, Sarah Chen,LakeSide Sports,PRD-003, SummitPro Jacket,Apparel,3,180
+2014,2025-02-25,South,Tom Rivera,Outdoor World,PRD-005,TrailBlaze Backpack,Camping ,6,95

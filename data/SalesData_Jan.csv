@@ -1,0 +1,26 @@
+OrderID,OrderDate,Region,Salesperson,Customer,ProductID,ProductName,Category,Quantity,UnitPrice
+1001,2025-01-03,North,Alex Smith,Trail Hut,PRD-001,TrekX Tent,Camping,4,120
+1002,2025-01-04,East,Maria Lopez,City Sports,PRD-004,CloudRun Shoes,Footwear,6,80
+1003,2025-01-05,South,Alex Smith,Outdoor World,PRD-002,ForestLight Lantern,Camping,10,35
+1004,2025-01-06,west,John King,Peak Outfitters,PRD-003,SummitPro Jacket,Apparel,3,180
+1005,2025-01-07,North,alex smith,Ridge Gear,PRD-002,ForestLight Lantern,Camping,2,36
+1006,2025-01-09,East,Maria Lopez,LakeSide Sports,PRD-005,TrailBlaze Backpack,Camping,5,95
+1007,2025-01-10,South,John King,Adventure Hub,PRD-004,CloudRun Shoes,Footwear,8,78
+1008,2025-01-12,North,Alex Smith,Trail Hut,PRD-003,SummitPro Jacket,Apparel,1,185
+1009,2025-01-13,West,Sarah Chen,Mountain Edge,PRD-006,Glacier Thermal Gloves,Apparel,12,25
+1010,2025-01-14,North,Tom Rivera,Alpine Gear,PRD-007,StormGuard Raincoat,Apparel,2,140
+1011,2025-01-15,East,Maria Lopez,City Sports,PRD-008,RiverFlow Kayak,Water Sports,1,430
+1012,2025-01-16,South,John King,Outdoor World,PRD-009,PeakTrail Poles,Accessories,15,35
+1013,2025-01-17,West,Sarah Chen,Peak Outfitters,PRD-010,SunShield Hat,Accessories,20,22
+1014,2025-01-18,North,Alex Smith,Ridge Gear,PRD-001,TrekX Tent,Camping,3,120
+1015,2025-01-20,East,Tom Rivera,LakeSide Sports,PRD-003,SummitPro Jacket,Apparel,4,180
+1016,2025-01-21,South,Maria Lopez,Adventure Hub,PRD-005,TrailBlaze Backpack,Camping,7,95
+1017,2025-01-22,West,John King,Mountain Edge,PRD-007,StormGuard Raincoat,Apparel,2,140
+1018,2025-01-23,North,Sarah Chen,Trail Hut,PRD-008,RiverFlow Kayak,Water Sports,1,430
+1019,2025-01-24,East,Alex Smith,City Sports,PRD-006,Glacier Thermal Gloves,Apparel,10,25
+1020,2025-01-25,South,Tom Rivera,Outdoor World,PRD-010,SunShield Hat,Accessories,8,22
+1021,2025-01-27,West,Maria Lopez,Peak Outfitters,PRD-001,TrekX Tent,Camping,5,120
+1022,2025-01-28,North,John King,Alpine Gear,PRD-009,PeakTrail Poles,Accessories,6,35
+1023,2025-01-29,East,Sarah Chen,LakeSide Sports,PRD-002,ForestLight Lantern,Camping,4,35
+1024,2025-01-30,South,Alex Smith,Adventure Hub,PRD-004,CloudRun Shoes,Footwear,3,80
+1025,2025-01-31,North,Tom Rivera,Ridge Gear,PRD-005,TrailBlaze Backpack,Camping,6,95

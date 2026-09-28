@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,StandardCost,StandardPrice,Status
+PRD-001,TrekX Tent,Camping,80,120,Active
+PRD-002,ForestLight Lantern,Camping,20,35,Active
+PRD-003,SummitPro Jacket,Apparel,110,180,Active
+PRD-004,CloudRun Shoes,Footwear,55,80,Active
+PRD-005,TrailBlaze Backpack,Camping,60,95,Active
+PRD-006,Glacier Thermal Gloves,Apparel,12,25,Active
+PRD-007,StormGuard Raincoat,Apparel,90,140,Active
+PRD-008,RiverFlow Kayak,Water Sports,250,430,Active
+PRD-009,PeakTrail Poles,Accessories,18,35,Active
+PRD-010,SunShield Hat,Accessories,8,22,Active
